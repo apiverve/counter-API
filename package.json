@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/counter",
+  "version": "1.0.0",
+  "description": "Counter is a simple tool for incrementing, decrementing, and resetting a counter. It returns the current value of the counter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/counter-API.git"
+  },
+  "keywords": [
+    "counter"," counter api"," counter tool"," counter software"," counter service"," counter library"," counter sdk"," counter code"," counter script"," counter program"," counter application"," counter app"," counter utility"," counter helper"," counter helper tool"," counter helper software"," counter helper service"," counter helper library"," counter helper sdk"," counter helper code"," counter helper script"," counter helper program"," counter helper application"," counter helper app"," counter helper utility"," counter helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/counter-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/counter-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
