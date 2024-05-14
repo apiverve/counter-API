@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/counter-API.git"
   },
   "keywords": [
-    "counter"," counter api"," counter tool"," counter software"," counter service"," counter library"," counter sdk"," counter code"," counter script"," counter program"," counter application"," counter app"," counter utility"," counter helper"," counter helper tool"," counter helper software"," counter helper service"," counter helper library"," counter helper sdk"," counter helper code"," counter helper script"," counter helper program"," counter helper application"," counter helper app"," counter helper utility"," counter helper"
+    "counter","counter api","counter tool","counter software","counter service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
