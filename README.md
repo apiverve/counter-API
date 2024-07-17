@@ -1,13 +1,13 @@
-Counter API
+Cloud Counter API
 ============
 
-Counter is a simple tool for incrementing, decrementing, and resetting a counter. It returns the current value of the counter.
+Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Javascript Wrapper for the [Counter API](https://apiverve.com/marketplace/api/counter)
+This is a Javascript Wrapper for the [Cloud Counter API](https://apiverve.com/marketplace/api/counter)
 
 ---
 
@@ -25,7 +25,7 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Counter API documentation is found here: [https://docs.apiverve.com/api/counter](https://docs.apiverve.com/api/counter).  
+The Cloud Counter API documentation is found here: [https://docs.apiverve.com/api/counter](https://docs.apiverve.com/api/counter).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
@@ -74,7 +74,7 @@ api.execute(query, function (error, data) {
     "created": "2024-04-26 22:09:46",
     "id": "test_counter",
     "lastAction": "get",
-    "lastRead": "2024-05-13 03:31:42",
+    "lastRead": "2024-07-17 15:17:02",
     "lastUpdated": "2024-04-26 22:09:46",
     "numberOfDigits": 1,
     "ordinal": "zeroth",
