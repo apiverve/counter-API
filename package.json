@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/counter",
-  "version": "1.0.2",
-  "description": "Counter is a simple tool for incrementing, decrementing, and resetting a counter. It returns the current value of the counter.",
+  "version": "1.0.3",
+  "description": "Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
