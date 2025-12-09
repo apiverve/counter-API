@@ -1,0 +1,24 @@
+openapi: 3.0.4
+info:
+  title: Cloud Counter
+  description: Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.
+  termsOfService: https://apiverve.com/terms/
+  contact:
+    name: APIVerve Support
+    email: hello@apiverve.com
+    url: https://apiverve.com/contact
+  version: 1.0.9
+externalDocs:
+  description: Learn more about APIVerve
+  url: https://docs.apiverve.com?utm_source=openapi
+servers:
+- url: https://api.apiverve.com/
+paths: {}
+components:
+  securitySchemes:
+    api_key:
+      type: apiKey
+      name: x-api-key
+      in: header
+security:
+- api_key: []
